@@ -70,13 +70,7 @@ You have an image patch of size (50x50) that you want to compress using matrix f
 - Display the reconstructed image patches, keeping the original pixel values outside the patch unchanged, and use your compressed matrix for the patch to show how well the reconstruction works.
 - Compute the RMSE and PSNR for each value of $r$. 
 
-Here is a reference set of patches that you can choose. You can chose an image of your liking and create patches. You can choose the image shown below as well. **[3 Marks]**
-
-<div style="display: flex;">
-  <img src="sample_images/1colour.jpg" alt="Image 1" width="250"/>
-  <img src="sample_images/2-3_colours.jpg" alt="Image 2" width="270"/>
-  <img src="sample_images/multiple_colours.jpg" alt="Image 3" width="265"/>
-</div>
+**[3 Marks]**
 
 <br>
 
